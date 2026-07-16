@@ -153,15 +153,9 @@ Wrote structured queries to answer 8 key business questions:
 ```
 zepto-inventory-analysis/
 │
-├── data/
-│   └── zepto_v2.csv
-│
-├── sql/
-│   └── zepto_analysis.sql
-│
-├── assets/
-│   └── dashboard_preview.png
-│
+└── zepto_v2.csv
+└── zepto_data_analysis.sql
+└── dashboard_preview.png
 └── README.md
 ```
 
