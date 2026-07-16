@@ -155,7 +155,7 @@ zepto-inventory-analysis/
 │
 └── zepto_v2.csv
 └── zepto_data_analysis.sql
-└── dashboard_preview.png
+└── Zepto_Inventory_Analysis.pdf
 └── README.md
 ```
 
